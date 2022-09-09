@@ -10,3 +10,10 @@
 4 install CPH Judge for online judge testCases;
 5 install competitive programming helper;
 6 More extensions: better c++ syntax,c/c++ extension pack,c/c++ themes,cmake tools;
+
+
+
+vs code tricks u always need: 
+
+1. setting search 'tree indent' -> 12 
+2. control zoom level pressing on the workspace bar -> cntrl ++ / control --;
