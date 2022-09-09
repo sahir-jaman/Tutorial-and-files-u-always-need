@@ -1,0 +1,12 @@
+1 install vs code;
+
+2 install codeblocks mingw file/only mingw in your machine;
+
+3 install c/c++ & code-runner from vs-code extension;
+
+  1. go to settings->preferences-> and type-> (code-runner: run in terminal). 
+  2. check the box;
+  
+4 install CPH Judge for online judge testCases;
+5 install competitive programming helper;
+6 More extensions: better c++ syntax,c/c++ extension pack,c/c++ themes,cmake tools;
